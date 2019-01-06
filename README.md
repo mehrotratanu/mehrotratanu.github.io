@@ -1,2 +1,2 @@
-# sauravn.github.io
+# mehrotratanu.github.io
 Personal website
